@@ -1,0 +1,20 @@
+.container{
+    box-shadow: 0 4px 20px rgba(255, 255, 255, 0.5); 
+    /* Smoky white shadow */
+    width: 360px;
+
+}
+.wheather_info{
+    margin-bottom: 5px;
+    color: rgb(138, 17, 138);
+    font-size: 15px;
+    font-weight: 600;
+}
+
+p{
+    color: rgb(89, 86, 86);
+}
+
+.card_content{
+    background-color: rgb(216, 205, 205);
+}
